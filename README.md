@@ -1,1 +1,35 @@
-# pesquisa-complexidade
+# PESQUISA SOBRE COMPUTABILIDADE E COMPLEXIDADE DE ALGORITMOS
+
+## SOBRE O PROJETO
+
+*ESSE PROJETO É PARA A MÁTERIA DE COMPUTABILIDADE E COMPLEXIDADE DE ALGORÍTIMOS*
+
+### FEITO COM
+* WORD
+* C#
+* VISUAL STUDIO 2019
+
+
+### INSTALAÇÃO
+ 
+1. BAIXE O DOCX ENCONTRADO NESSE REPOSITÓRIO
+```sh
+git clone https://github.com/mekinus/pesquisa-complexidade/
+```
+
+## Função
+
+Exibe resultado das pesquisas feitas com algoritmos de busca mais conhecidos.
+
+
+
+<!-- GRUPO -->
+## GRUPO
+
+
+
+1. LEONARDO COUTO
+2. CLARICE BRAGA TOLENTINO
+3. LUCAS VEIGA SGROTT
+4. PEDRO BASTOS CONSTANTINO JUNIOR
+5. GUSTAVO GABRIEL DE ALMEIDA
